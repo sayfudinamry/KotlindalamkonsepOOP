@@ -1,5 +1,5 @@
 package id.ac.polbeng.depandi.test_kelas
-class Greeter {
+class `01Greeter` {
     var text: String = ""
     fun greet() {
         println("Hello object world!")
